@@ -34,7 +34,7 @@ export default function Footer() {
       <h2 style={{color:"black"}}>Contact</h2>
       <ul class="nav flex-column">
         <h2 style={{color:"black"}}>{<GrLocation/>}Location</h2>
-        <p>51, Radio Park (opp.KEB Office),CB Ballari-583102</p>
+        <p>521,1stGate (near.KEB Office),CB Ballari-583102</p>
         <h2 style={{color:"black"}}>{<GrMail/>}Mail</h2>
       <p> 24 x 7 online support info@TexAco.com.in </p>
       <h2 style={{color:"black"}}>{<GrPhone/>}Phone</h2>
