@@ -1,0 +1,38 @@
+/* .container{
+  display: flex;
+}
+.card{
+  list-style-type: none;
+  padding: 10px;
+  position: relative;
+}
+.card-img-top{
+  position: absolute;
+  left: -9999px;
+}
+.card:hover.
+.card:hover .card-img-top {
+  left: 20px;
+  top: -150px;
+} */
+ul {
+  display: flex;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+  position: relative;
+}
+.large {
+  position: absolute;
+  left: -9999px;
+}
+li:hover .large {
+  left: 20px;
+  top: -150px;
+}
+.large-image {
+  border-radius: 3px;
+   box-shadow: 1px 1px 2px 2px rgba(127, 127, 127, 0.15);;
+}
