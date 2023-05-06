@@ -60,7 +60,7 @@ return (
     <div class="container my-4" id="demo">
         <div class="row">
           <div class="col-md-4 active">
-            <div class="card h-100 " style={{
+          <div class="card h-100 " style={{
           // height: '100px',
           // width: '100px',
           backgroundColor: data? 'black' : 'red',
